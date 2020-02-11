@@ -7,4 +7,6 @@ yay -S community/plank --noconfirm
 pacman -S aspell-en libmythes mythes-en languagetool --noconfirm
 yay -S aur/touchpad-indicator-git  --noconfirm
 yay -S extra/nmap --noconfirm
-yay -S aur/joplin  --noconfirm
+yay -S aur/joplin  --noconfirm 
+pacman -Syu virtualbox linux54-virtualbox-host-modules --noconfirm
+yay -S aur/drawio-desktop --noconfirm
