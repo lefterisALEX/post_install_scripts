@@ -23,3 +23,9 @@
 22. Install git
 23. Install hub
 
+## update grub for Dual boot
+```
+grub-install /dev/sda
+grub-install --recheck /dev/sda
+update-grub
+```
